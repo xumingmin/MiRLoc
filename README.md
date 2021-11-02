@@ -12,4 +12,4 @@ The corresponding dataset and code for the RWR algorithm.
 ## Run steps
 
 1. Make data preparations. Specify a complete file path and file name.
-2. Run "mPAT.m" or "main_RWR.m" to obtain the miRNA subcellular localization prediction score.
+2. Run "mPAT.m" or "RWR.m" to obtain the miRNA subcellular localization prediction score.
