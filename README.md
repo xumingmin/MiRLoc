@@ -1,6 +1,8 @@
 # MiRLoc
 MiRLoc: predicting miRNA subcellular localization by incorporating miRNA-mRNA interactions and mRNA subcellular localization
 
+If you use this tool, please consider citing the following publication: https://doi.org/10.7717/peerj.11426
+
 ## mPAT_code&datasets
 
 The corresponding dataset and code for the mPAT algorithm.
